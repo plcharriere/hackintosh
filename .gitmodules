@@ -1,0 +1,6 @@
+[submodule "hackintosh-msi-z97-gaming-5"]
+	path = hackintosh-msi-z97-gaming-5
+	url = https://github.com/plcharriere/hackintosh-msi-z97-gaming-5
+[submodule "hackintosh-asus-vivobook-x510uf"]
+	path = hackintosh-asus-vivobook-x510uf
+	url = https://github.com/plcharriere/hackintosh-asus-vivobook-x510uf
