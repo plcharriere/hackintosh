@@ -4,6 +4,12 @@ This repository contains my EFI folders and bootloaders configurations to boot m
 
 If you want to use them, don't forget to generate your own SMBIOS and update your config.plist files.
 
+## Clone
+
+To clone and download configurations, use the following command :
+
+```git clone --recurse-submodules https://github.com/plcharriere/hackintosh.git```
+
 # Models
 
 ## MSI Z97 Gaming 5
