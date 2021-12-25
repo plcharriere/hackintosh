@@ -4,3 +4,6 @@
 [submodule "hackintosh-asus-vivobook-x510uf"]
 	path = hackintosh-asus-vivobook-x510uf
 	url = https://github.com/plcharriere/hackintosh-asus-vivobook-x510uf
+[submodule "hackintosh-lenovo-thinkpad-t14s"]
+	path = hackintosh-lenovo-thinkpad-t14s
+	url = https://github.com/plcharriere/hackintosh-lenovo-thinkpad-t14s/
